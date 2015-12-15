@@ -14,12 +14,11 @@
 
 1. Python (pandas, numpy, scipy, scikit-learn, ipython)
 1. Reliability (Weibull, Bayes, ect...)
+1. SQL / NoSQL
 1. Bash
 1. Git
 1. Linux
 1. Spark
-1. Hadoop
-1. SQL / NoSQL
 
 
 ------
@@ -68,7 +67,7 @@ Contracted as a Systems Engineer through Barrios Technology to support Electrica
 
 ### Projects
 
-* **Turntable**
+* **[Turntable](https://github.com/jshiv/turntable)**
 	<a href=http://pythonhosted.org/turntable/ class=not-printed>pythonhosted.org/turntable/</a>
 	Functional framework for multiprocessing pandas DataFrames in python.
 
@@ -101,8 +100,7 @@ Contracted as a Systems Engineer through Barrios Technology to support Electrica
 **[PHM Socioty](https://www.phmsociety.org/)** __2015__ automotive panel discussion
 
 **[ARS](http://www.arsymposium.org/)** __2014__
-Big Data in Reliability
-1st Place
+Big Data in Reliability: 1st Place
 
 -------
 
