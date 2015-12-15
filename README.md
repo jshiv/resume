@@ -74,9 +74,6 @@ Contracted as a Systems Engineer through Barrios Technology to support Electrica
 * **[Stencil](https://github.com/jshiv/stencil)**
 	Template for structuring new packages in python.
 
-* **Reliability Simulation Framework**
-	Monte-Carlo Competing failure mode simulation designed for repairable system forecasting.
-
 
 
 ------
