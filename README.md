@@ -12,13 +12,17 @@
 
 ### Technical
 
-1. Python (pandas, numpy, scipy, scikit-learn, ipython)
-1. Reliability (Weibull, Bayes, ect...)
-1. SQL / NoSQL
+1. Spark
+1. Python
+1. Linux
+1. Docker
+1. Ansible
 1. Bash
 1. Git
-1. Linux
-1. Spark
+1. SQL / NoSQL
+1. Statistical Modeling
+1. Machine Learning
+1. AWS
 
 
 ------
@@ -28,9 +32,11 @@
 **Tesla Motors** *Associate Manager, Data Science | Reliability* __2015 to Present__
 Grew the Data Science team and capacity within the organization. Evangelized the need for data and infrastructure to facilitate data driven decision making.
 
-Provided direction on proactive maintenance campaign and prognostics algorithm development using machine learning techniques: *random forest, logistic regression, physics of failure.*
+Developed Ansible/Docker deployment architecture for a Spark standalone cluster and python libraries for efficient manipulation and processing of log data.
 
-Established a new lean communication and visualization paradigm leveraging markdown, plotly, and domino.
+Established an analytics workflow leveraging git version control, with jira integrations. Designed the ETL workflow using spark, airflow, jupyter and superset.
+
+Provided direction on proactive maintenance campaign and prognostics algorithm development using machine learning techniques: *random forest, logistic regression, physics of failure.*
 
 
 
