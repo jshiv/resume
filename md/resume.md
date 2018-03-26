@@ -2,7 +2,7 @@
 ## Lead Data Scientist and Reliability Engineer
 
 
-> [jshiv00@gmail.com](mailto:jshiv00@gmail.com)
+> [jason.shiverick@gmail.com](mailto:jason.shiverick@gmail.com)
 
 > [github.com/jshiv](https://github.com/jshiv)
 
@@ -12,18 +12,7 @@
 
 ### Technical
 
-1. Spark
-1. Python
-1. Linux
-1. Docker
-1. Ansible
-1. Bash
-1. Git
-1. SQL / NoSQL
-1. Statistical Modeling
-1. Machine Learning
-1. AWS
-
+1. Spark, Python, Linux, Docker, Ansible, Bash, Git, SQL / NoSQL, Statistical Modeling, Machine Learning, AWS
 
 ------
 
@@ -74,11 +63,10 @@ Contracted as a Systems Engineer through Barrios Technology to support Electrica
 ### Projects
 
 * **[Turntable](https://github.com/jshiv/turntable)**
-	<a href=http://pythonhosted.org/turntable/ class=not-printed>pythonhosted.org/turntable/</a>
 	Functional framework for multiprocessing pandas DataFrames in python.
 
-* **[Stencil](https://github.com/jshiv/stencil)**
-	Template for structuring new packages in python.
+* **[all-spark-cluster](https://github.com/jshiv/all-spark-cluster)**
+	Simple shell scripts for deploying a containerized spark standalone cluster.
 
 
 
