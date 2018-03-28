@@ -13,9 +13,9 @@ Spark, Python, Docker, Ansible, Git, SQL / NoSQL, Statistical Modeling, Machine 
 
 ------
 
-### Experience	
+### Experience
 
-**Tesla Motors** *Associate Manager, Data Science | Reliability* __2015 to Present__
+**Tesla** *Associate Manager, Data Science | Reliability* __2015 to Present__
 
 * Developed Ansible/Docker deployment architecture for a Spark standalone cluster and python libraries for efficient manipulation and processing of log data.
 
@@ -24,14 +24,14 @@ Spark, Python, Docker, Ansible, Git, SQL / NoSQL, Statistical Modeling, Machine 
 * Provided direction on proactive maintenance campaign and prognostics algorithm development using machine learning techniques: *random forest, logistic regression, physics of failure.*
 
 
-**Tesla Motors** *Senior Data Scientist* __2014 to 2015__
+**Tesla** *Senior Data Scientist* __2014 to 2015__
 
 * Established an extensive code base that provides tools to the organization for extracting, transforming, and analyzing field data at scale.
 
 * Developed a modern approach to advanced warranty simulation in Python that can account for competing failure modes in a repairable system under varying use conditions.
 
 
-**Tesla Motors** *Reliabilty Data Scientist* __2013 to 2014__
+**Tesla** *Reliabilty Data Scientist* __2013 to 2014__
 
 * Developed statistical frame work for python:	*Weibull analysis,	Stress-Strength Convolution,	Hypothesis testing,	Best fit solver, generalized distribution framework, newton-raphson solver,	ranking methods,	mttf*
 

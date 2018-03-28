@@ -7,13 +7,13 @@
 
 ------
 
-### Tech Stack {#technical}
+### Tech Stack
 
 Spark, Python, Docker, Ansible, Git, SQL / NoSQL, Statistical Modeling, Machine Learning, AWS
 
 ------
 
-### Experience {#experience}
+### Experience	
 
 **Tesla Motors** *Associate Manager, Data Science | Reliability* __2015 to Present__
 
