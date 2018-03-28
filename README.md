@@ -1,5 +1,5 @@
 # Jason Shiverick
-## Lead Data Scientist and Reliability Engineer
+## Lead Data Scientist and Data Engineer
 
 
 > [jason.shiverick@gmail.com](mailto:jason.shiverick@gmail.com)
@@ -12,7 +12,7 @@
 
 ### Technical
 
-1. Spark, Python, Linux, Docker, Ansible, Bash, Git, SQL / NoSQL, Statistical Modeling, Machine Learning, AWS
+1. Spark, Python, Docker, Ansible, Bash, Git, SQL / NoSQL, Statistical Modeling, Machine Learning, AWS
 
 ------
 
