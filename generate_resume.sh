@@ -16,8 +16,11 @@ docker stop resume && docker rm resume
 mv pdf/README.pdf pdf/resume.pdf
 
 
-# Generate zip file using pandoc
+# Generate txt file using pandoc
 pandoc --from=markdown --to=plain --output=txt/resume.txt README.md
+
+# Generate docx file using pandoc
+pandoc --from=markdown --to=docx --output=docx/resume.docx README.md
 
 #copy the file to the md folder
 cp README.md md/resume.md
