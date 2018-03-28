@@ -1,28 +1,29 @@
-# Jason Shiverick
+# [Jason Shiverick](https://www.linkedin.com/in/jason-shiverick-2a9b7b16)
 ## Lead Data Scientist and Data Engineer
-
 
 > [jason.shiverick@gmail.com](mailto:jason.shiverick@gmail.com)
 
-> [github.com/jshiv](https://github.com/jshiv)
-
-> [linkedin.com/jason-shiverick](https://www.linkedin.com/in/jason-shiverick-2a9b7b16)
-
-> (281) 725-3319
+> 281-725-3319
 
 ------
 
-### Tech Stack
+### Tech Stack {#technical}
 
-1. Spark, Python, Docker, Ansible, Bash, Git, SQL / NoSQL, Statistical Modeling, Machine Learning, AWS
+1. Spark
+1. Python
+1. Docker
+1. Ansible
+1. Git
+1. SQL / NoSQL
+1. Statistical Modeling
+1. Machine Learning
+1. AWS
 
 ------
 
 ### Experience
 
 **Tesla Motors** *Associate Manager, Data Science | Reliability* __2015 to Present__
-
-* Grew the Data Science team and capacity within the organization. Evangelized the need for data and infrastructure to facilitate data driven decision making.
 
 * Developed Ansible/Docker deployment architecture for a Spark standalone cluster and python libraries for efficient manipulation and processing of log data.
 
@@ -40,8 +41,6 @@
 
 **Tesla Motors** *Reliabilty Data Scientist* __2013 to 2014__
 
-* Developed the tools required for analyzing fleet logs at scale, and characterizing usage conditions.
-
 * Developed statistical frame work for python:	*Weibull analysis,	Stress-Strength Convolution,	Hypothesis testing,	Best fit solver, generalized distribution framework, newton-raphson solver,	ranking methods,	mttf*
 
 
@@ -51,6 +50,7 @@
 
 **Boeing Corporation** *Systems Engineer* __2008 to 2009__
 
+-------
 
 ### Education
 
