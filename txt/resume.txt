@@ -1,0 +1,77 @@
+
+
+JASON SHIVERICK
+
+
+Lead Data Scientist and Data Engineer
+
+  jason.shiverick@gmail.com
+  linkedin
+  281-725-3319
+
+------------------------------------------------------------------------
+
+Tech Stack
+
+Spark, Python, Docker, Ansible, Git, SQL / NoSQL, Statistical Modeling,
+Machine Learning, AWS
+
+------------------------------------------------------------------------
+
+Experience
+
+TESLA _Associate Manager, Data Science | Reliability_ 2015 TO PRESENT
+
+-   Developed Ansible/Docker deployment architecture for a Spark
+    standalone cluster and python libraries for efficient manipulation
+    and processing of log data.
+
+-   Established an analytics workflow leveraging git version control,
+    with jira integrations. Designed the ETL workflow using spark,
+    airflow, jupyter and superset.
+
+-   Provided direction on proactive maintenance campaign and prognostics
+    algorithm development using machine learning techniques: _random
+    forest, logistic regression, physics of failure._
+
+TESLA _Senior Data Scientist_ 2014 TO 2015
+
+-   Established an extensive code base that provides tools to the
+    organization for extracting, transforming, and analyzing field data
+    at scale.
+
+-   Developed a modern approach to advanced warranty simulation in
+    Python that can account for competing failure modes in a repairable
+    system under varying use conditions.
+
+TESLA _Reliabilty Data Scientist_ 2013 TO 2014
+
+-   Developed statistical frame work for python: _Weibull analysis,
+    Stress-Strength Convolution, Hypothesis testing, Best fit solver,
+    generalized distribution framework, newton-raphson solver, ranking
+    methods, mttf_
+
+INGERSOLL RAND _Reliability Engineer_ 2011 TO 2013
+
+MEDTRONIC INC. _Product Performance Specialist_ 2010 TO 2011
+
+BOEING CORPORATION _Systems Engineer_ 2008 TO 2009
+
+------------------------------------------------------------------------
+
+Education
+
+GRADUATE COURSE WORK (RELIABILITY ENGINEERING) 2012 TO 2013 University
+of Maryland (online) College Park, Maryland _ENRE 602: Reliability
+Analysis_ _ENRE 655: Advanced Methods in Reliability Modeling_
+
+BACHELORS OF SCIENCE IN AEROSPACE ENGINEERING 2004 TO 2008 Iowa State
+University Ames, Iowa
+
+------------------------------------------------------------------------
+
+Invited Talks
+
+PHM SOCIOTY 2015 automotive panel discussion
+
+ARS 2014 Big Data in Reliability: 1st Place
