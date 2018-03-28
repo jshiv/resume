@@ -1,8 +1,8 @@
 # Jason Shiverick
 ## Lead Data Scientist and Data Engineer
 
-> [jason.shiverick@gmail.com](mailto:jason.shiverick@gmail.com)
-> [linkedin](https://www.linkedin.com/in/jason-shiverick-2a9b7b16)
+> [jason.shiverick@gmail.com](mailto:jason.shiverick@gmail.com)		
+> [linkedin](https://www.linkedin.com/in/jason-shiverick-2a9b7b16)		
 > 281-725-3319
 
 ------
@@ -13,7 +13,7 @@ Spark, Python, Docker, Ansible, Git, SQL / NoSQL, Statistical Modeling, Machine 
 
 ------
 
-### Experience
+### Experience	
 
 **Tesla** *Associate Manager, Data Science | Reliability* __2015 to Present__
 
