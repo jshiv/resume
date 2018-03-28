@@ -6,6 +6,8 @@
 
 > [github.com/jshiv](https://github.com/jshiv)
 
+> [linkedin.com/jason-shiverick](https://www.linkedin.com/in/jason-shiverick-2a9b7b16)
+
 > (281) 725-3319
 
 ------
