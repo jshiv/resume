@@ -1,10 +1,12 @@
 # Jason Shiverick
-## Lead Data Scientist and Reliability Engineer
+## Lead Data Scientist and Data Engineer
 
 
 > [jason.shiverick@gmail.com](mailto:jason.shiverick@gmail.com)
 
 > [github.com/jshiv](https://github.com/jshiv)
+
+> [linkedin.com/jason-shiverick](https://www.linkedin.com/in/jason-shiverick-2a9b7b16)
 
 > (281) 725-3319
 
@@ -12,7 +14,7 @@
 
 ### Technical
 
-1. Spark, Python, Linux, Docker, Ansible, Bash, Git, SQL / NoSQL, Statistical Modeling, Machine Learning, AWS
+1. Spark, Python, Docker, Ansible, Bash, Git, SQL / NoSQL, Statistical Modeling, Machine Learning, AWS
 
 ------
 
@@ -28,15 +30,12 @@ Established an analytics workflow leveraging git version control, with jira inte
 Provided direction on proactive maintenance campaign and prognostics algorithm development using machine learning techniques: *random forest, logistic regression, physics of failure.*
 
 
-
 **Tesla Motors** *Senior Data Scientist* __2014 to 2015__
 Innovated in the approach to Reliability Engineering by incorporating the tools of Data Science.
 
 Established an extensive code base that provides tools to the organization for extracting, transforming, and analyzing field data at scale.
 
 Developed a modern approach to advanced warranty simulation in Python that can account for competing failure modes in a repairable system under varying use conditions.
-
-
 
 
 **Tesla Motors** *Reliabilty Data Scientist* __2013 to 2014__
@@ -67,8 +66,6 @@ Contracted as a Systems Engineer through Barrios Technology to support Electrica
 
 * **[all-spark-cluster](https://github.com/jshiv/all-spark-cluster)**
 	Simple shell scripts for deploying a containerized spark standalone cluster.
-
-
 
 ------
 
