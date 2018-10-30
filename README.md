@@ -15,7 +15,7 @@ Spark, Python, Docker, Ansible, Git, SQL / NoSQL, Statistical Modeling, Machine 
 
 ### Experience	
 
-**Waymo [Contract with Adecco]** *Senior Data Scientist* __March 2018 to June 2018__
+**Waymo [Contract with Adecco]** *Senior Data Scientist* __June 2018 to Present__
 
 * Developed Markov chain Monte Carlo python code base for accurately forecasting field failures in complex systems.
 
