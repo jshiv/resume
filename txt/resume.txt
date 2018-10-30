@@ -20,8 +20,8 @@ Machine Learning, AWS
 
 Experience
 
-WAYMO [CONTRACT WITH ADECCO] _Senior Data Scientist_ MARCH 2018 TO JUNE
-2018
+WAYMO [CONTRACT WITH ADECCO] _Senior Data Scientist_ JUNE 2018 TO
+PRESENT
 
 -   Developed Markov chain Monte Carlo python code base for accurately
     forecasting field failures in complex systems.
