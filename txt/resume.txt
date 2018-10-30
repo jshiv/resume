@@ -7,7 +7,7 @@ Lead Data Scientist and Data Engineer
 
   jason.shiverick@gmail.com
   linkedin
-  281-725-3319
+  415-849-5589
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,23 @@ Machine Learning, AWS
 
 Experience
 
-TESLA _Associate Manager, Data Science | Reliability_ 2015 TO PRESENT
+WAYMO [CONTRACT WITH ADECCO] _Senior Data Scientist_ MARCH 2018 TO JUNE
+2018
+
+-   Developed Markov chain Monte Carlo python code base for accurately
+    forecasting field failures in complex systems.
+
+-   Developed Reliability analytics data pipeline and dashboards for
+    report automation.
+
+MAYFIELD ROBOTICS [CONTRACT] _Data Engineer, Consultant_ MARCH 2018 TO
+JUNE 2018
+
+-   Data Warehouse: Designed and implemented analytics data architecture
+    using spark via AWS Glue to process robot logs and disparate data
+    sources into AWS Athena optimized parquet files on S3.
+
+TESLA _Associate Manager, Data Science | Reliability_ 2015 TO 2018
 
 -   Developed Ansible/Docker deployment architecture for a Spark
     standalone cluster and python libraries for efficient manipulation
@@ -44,7 +60,7 @@ TESLA _Senior Data Scientist_ 2014 TO 2015
     Python that can account for competing failure modes in a repairable
     system under varying use conditions.
 
-TESLA _Reliabilty Data Scientist_ 2013 TO 2014
+TESLA _Reliability Data Scientist_ 2013 TO 2014
 
 -   Developed statistical frame work for python: _Weibull analysis,
     Stress-Strength Convolution, Hypothesis testing, Best fit solver,
@@ -72,6 +88,6 @@ University Ames, Iowa
 
 Invited Talks
 
-PHM SOCIOTY 2015 automotive panel discussion
+PHM SOCIETY 2015 automotive panel discussion
 
 ARS 2014 Big Data in Reliability: 1st Place

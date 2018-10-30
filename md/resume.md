@@ -3,7 +3,7 @@
 
 > [jason.shiverick@gmail.com](mailto:jason.shiverick@gmail.com)		
 > [linkedin](https://www.linkedin.com/in/jason-shiverick-2a9b7b16)		
-> 281-725-3319
+> 415-849-5589
 
 ------
 
@@ -15,7 +15,17 @@ Spark, Python, Docker, Ansible, Git, SQL / NoSQL, Statistical Modeling, Machine 
 
 ### Experience	
 
-**Tesla** *Associate Manager, Data Science | Reliability* __2015 to Present__
+**Waymo [Contract with Adecco]** *Senior Data Scientist* __March 2018 to June 2018__
+
+* Developed Markov chain Monte Carlo python code base for accurately forecasting field failures in complex systems.
+
+* Developed Reliability analytics data pipeline and dashboards for report automation. 
+
+**Mayfield Robotics [Contract]** *Data Engineer, Consultant* __March 2018 to June 2018__
+
+* Data Warehouse: Designed and implemented analytics data architecture using spark via AWS Glue to process robot logs and disparate data sources into AWS Athena optimized parquet files on S3.
+
+**Tesla** *Associate Manager, Data Science | Reliability* __2015 to 2018__
 
 * Developed Ansible/Docker deployment architecture for a Spark standalone cluster and python libraries for efficient manipulation and processing of log data.
 
@@ -31,7 +41,7 @@ Spark, Python, Docker, Ansible, Git, SQL / NoSQL, Statistical Modeling, Machine 
 * Developed a modern approach to advanced warranty simulation in Python that can account for competing failure modes in a repairable system under varying use conditions.
 
 
-**Tesla** *Reliabilty Data Scientist* __2013 to 2014__
+**Tesla** *Reliability Data Scientist* __2013 to 2014__
 
 * Developed statistical frame work for python:	*Weibull analysis,	Stress-Strength Convolution,	Hypothesis testing,	Best fit solver, generalized distribution framework, newton-raphson solver,	ranking methods,	mttf*
 
@@ -60,7 +70,7 @@ Spark, Python, Docker, Ansible, Git, SQL / NoSQL, Statistical Modeling, Machine 
 
 ### Invited Talks
 
-**[PHM Socioty](https://www.phmsociety.org/)** __2015__ automotive panel discussion
+**[PHM Society](https://www.phmsociety.org/)** __2015__ automotive panel discussion
 
 **[ARS](http://www.arsymposium.org/)** __2014__
 Big Data in Reliability: 1st Place
