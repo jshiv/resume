@@ -14,7 +14,7 @@
 * DevOps
 	: Git, Docker, Ansible, Airflow, NGINX
 * AWS
-	: EC2, S3, Glue, Athena, RDS, Lambda, serverless.js 
+	: EC2, S3, Glue, Athena, RDS, Lambda, Kinesis, serverless.js 
 * Hadoop
 	: HDFS, Hive, Impala
 * Stats and ML
