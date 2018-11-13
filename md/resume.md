@@ -9,7 +9,16 @@
 
 ### Tech Stack
 
-Spark, Python, Docker, Ansible, Git, SQL / NoSQL, Statistical Modeling, Machine Learning, AWS
+* Code
+	: Python, Spark, SQL / NoSQL
+* DevOps
+	: Git, Docker, Ansible, Airflow, NGINX
+* AWS
+	: EC2, S3, Glue, Athena, RDS, Lambda, serverless.js 
+* Hadoop
+	: HDFS, Hive, Impala
+* Stats and ML
+	: pandas, scipy.stats, numpy, sklearn, lifelines, pymc3, MLlib
 
 ------
 
