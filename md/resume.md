@@ -10,7 +10,7 @@
 ### Tech Stack
 
 * Code
-	: Python, Spark, SQL / NoSQL
+	: Python, Spark, SQL / NoSQL, Go
 * DevOps
 	: Git, Docker, Ansible, Airflow, NGINX
 * AWS
@@ -26,17 +26,19 @@
 
 **Waymo [Contract with Adecco]** *Senior Data Scientist* __June 2018 to Present__
 
+* Developed Metropolis Hastings algorithm in Go for sampling from a Weibull posterior with arbitrary priors. 
+
 * Developed Markov chain Monte Carlo python code base for accurately forecasting field failures in complex systems.
 
 * Developed Reliability analytics data pipeline and dashboards for report automation. 
 
 **Mayfield Robotics [Contract]** *Data Engineer, Consultant* __March 2018 to June 2018__
 
-* Data Warehouse: Designed and implemented analytics data architecture using spark via AWS Glue to process robot logs and disparate data sources into AWS Athena optimized parquet files on S3.
+* Data Warehouse: Designed and implemented analytics data infrastructure using spark via AWS Glue to process robot logs and disparate data sources into AWS Athena optimized parquet files on S3.
 
 **Tesla** *Associate Manager, Data Science | Reliability* __2015 to 2018__
 
-* Developed Ansible/Docker deployment architecture for a Spark standalone cluster and python libraries for efficient manipulation and processing of log data.
+* Built and Maintained robust back end infrastructure on top of Docker and Ansible. My design made it easy to provision and manage a Spark cluster and various Micro-Services between two people while also providing statistical models and TB scale log analytics.
 
 * Established an analytics workflow leveraging git version control, with jira integrations. Designed the ETL workflow using spark, airflow, jupyter and superset.
 

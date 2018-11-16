@@ -16,7 +16,7 @@ Tech Stack
 -   
 
     Code
-        Python, Spark, SQL / NoSQL
+        Python, Spark, SQL / NoSQL, Go
 
 -   
 
@@ -45,6 +45,9 @@ Experience
 WAYMO [CONTRACT WITH ADECCO] _Senior Data Scientist_ JUNE 2018 TO
 PRESENT
 
+-   Developed Metropolis Hastings algorithm in Go for sampling from a
+    Weibull posterior with arbitrary priors.
+
 -   Developed Markov chain Monte Carlo python code base for accurately
     forecasting field failures in complex systems.
 
@@ -54,15 +57,17 @@ PRESENT
 MAYFIELD ROBOTICS [CONTRACT] _Data Engineer, Consultant_ MARCH 2018 TO
 JUNE 2018
 
--   Data Warehouse: Designed and implemented analytics data architecture
-    using spark via AWS Glue to process robot logs and disparate data
-    sources into AWS Athena optimized parquet files on S3.
+-   Data Warehouse: Designed and implemented analytics data
+    infrastructure using spark via AWS Glue to process robot logs and
+    disparate data sources into AWS Athena optimized parquet files
+    on S3.
 
 TESLA _Associate Manager, Data Science | Reliability_ 2015 TO 2018
 
--   Developed Ansible/Docker deployment architecture for a Spark
-    standalone cluster and python libraries for efficient manipulation
-    and processing of log data.
+-   Built and Maintained robust back end infrastructure on top of Docker
+    and Ansible. My design made it easy to provision and manage a Spark
+    cluster and various Micro-Services between two people while also
+    providing statistical models and TB scale log analytics.
 
 -   Established an analytics workflow leveraging git version control,
     with jira integrations. Designed the ETL workflow using spark,
