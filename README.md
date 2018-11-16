@@ -10,7 +10,7 @@
 ### Tech Stack
 
 * Code
-	: Python, Spark, SQL / NoSQL
+	: Python, Spark, SQL / NoSQL, Go
 * DevOps
 	: Git, Docker, Ansible, Airflow, NGINX
 * AWS
@@ -25,6 +25,8 @@
 ### Experience	
 
 **Waymo [Contract with Adecco]** *Senior Data Scientist* __June 2018 to Present__
+
+* Developed Metropolis Hastings algorithm in Go for sampling from a Weibull posterior with arbitrary priors. 
 
 * Developed Markov chain Monte Carlo python code base for accurately forecasting field failures in complex systems.
 
