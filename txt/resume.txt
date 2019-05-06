@@ -42,8 +42,13 @@ Tech Stack
 
 Experience
 
-WAYMO [CONTRACT WITH ADECCO] _Senior Data Scientist_ JUNE 2018 TO
-PRESENT
+WAYMO [CONTRACT] _Senior Data Scientist_ JUNE 2018 TO PRESENT
+
+-   Designed and developed the python run feature extractor pipeline.
+    Built on apache beam, flume, borg, python and protobuff, the
+    framework provides users a simple design pattern to extract features
+    from vehicle and sds log data, and then to scale over the whole
+    fleet processing 100's of TB in minutes.
 
 -   Developed Metropolis Hastings algorithm in Go for sampling from a
     Weibull posterior with arbitrary priors.
