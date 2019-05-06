@@ -26,6 +26,8 @@
 
 **Waymo [Contract]** *Senior Data Scientist* __June 2018 to Present__
 
+* Designed and developed the python run feature extractor pipeline. Built on apache beam, flume, borg, python and protobuff, the framework provides users a simple design pattern to extract features from vehicle and sds log data, and  then to scale over the whole fleet processing 100's of TB in minutes. 
+
 * Developed Metropolis Hastings algorithm in Go for sampling from a Weibull posterior with arbitrary priors. 
 
 * Developed Markov chain Monte Carlo python code base for accurately forecasting field failures in complex systems.
