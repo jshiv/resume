@@ -24,7 +24,7 @@
 
 ### Experience	
 
-**Waymo [Contract]** *Senior Data Scientist* __June 2018 to Present__
+**Waymo** *Senior Data Scientist* __June 2018 to Present__
 
 * Designed and developed the python run feature extractor pipeline. Built on apache beam, flume, borg, python and protobuff, the framework provides users a simple design pattern to extract features from vehicle and sds log data, and  then to scale over the whole fleet processing 100's of TB in minutes. 
 
@@ -34,7 +34,7 @@
 
 * Developed Reliability analytics data pipeline and dashboards for report automation. 
 
-**Mayfield Robotics [Contract]** *Data Engineer, Consultant* __March 2018 to June 2018__
+**Mayfield Robotics** *Data Engineer, Consultant* __March 2018 to June 2018__
 
 * Data Warehouse: Designed and implemented analytics data infrastructure using spark via AWS Glue to process robot logs and disparate data sources into AWS Athena optimized parquet files on S3.
 
