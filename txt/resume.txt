@@ -42,7 +42,7 @@ Tech Stack
 
 Experience
 
-WAYMO [CONTRACT] _Senior Data Scientist_ JUNE 2018 TO PRESENT
+WAYMO _Senior Data Scientist_ JUNE 2018 TO PRESENT
 
 -   Designed and developed the python run feature extractor pipeline.
     Built on apache beam, flume, borg, python and protobuff, the
@@ -59,8 +59,7 @@ WAYMO [CONTRACT] _Senior Data Scientist_ JUNE 2018 TO PRESENT
 -   Developed Reliability analytics data pipeline and dashboards for
     report automation.
 
-MAYFIELD ROBOTICS [CONTRACT] _Data Engineer, Consultant_ MARCH 2018 TO
-JUNE 2018
+MAYFIELD ROBOTICS _Data Engineer, Consultant_ MARCH 2018 TO JUNE 2018
 
 -   Data Warehouse: Designed and implemented analytics data
     infrastructure using spark via AWS Glue to process robot logs and
