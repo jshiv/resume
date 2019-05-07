@@ -38,7 +38,7 @@
 
 * Data Warehouse: Designed and implemented analytics data infrastructure using spark via AWS Glue to process robot logs and disparate data sources into AWS Athena optimized parquet files on S3.
 
-**Tesla** *Associate Manager, Data Science | Reliability* __2015 to 2018__
+**Tesla** *Software Engineer, Data Scientist, Manager* __2013 to 2018__
 
 * Built and Maintained robust back end infrastructure on top of Docker and Ansible. My design made it easy to provision and manage a Spark cluster and various Micro-Services between two people while also providing statistical models and TB scale log analytics.
 
@@ -46,15 +46,9 @@
 
 * Provided direction on proactive maintenance campaign and prognostics algorithm development using machine learning techniques: *random forest, logistic regression, physics of failure.*
 
-
-**Tesla** *Senior Data Scientist* __2014 to 2015__
-
 * Established an extensive code base that provides tools to the organization for extracting, transforming, and analyzing field data at scale.
 
 * Developed a modern approach to advanced warranty simulation in Python that can account for competing failure modes in a repairable system under varying use conditions.
-
-
-**Tesla** *Reliability Data Scientist* __2013 to 2014__
 
 * Developed statistical frame work for python:	*Weibull analysis,	Stress-Strength Convolution,	Hypothesis testing,	Best fit solver, generalized distribution framework, newton-raphson solver,	ranking methods,	mttf*
 
