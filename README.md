@@ -83,6 +83,10 @@
 
 -------
 
+### Projects
+
+**[Cronicle](https://github.com/jshiv/cronicle)** is a git integrated workflow scheduler that provides a pull model for CI/CD and versioning on job execution.
+
 ### Invited Talks
 
 **[PHM Society](https://www.phmsociety.org/)** __2015__ automotive panel discussion
