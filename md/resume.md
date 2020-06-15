@@ -10,13 +10,13 @@
 ### Tech Stack
 
 * Code
-	: Python, Spark, SQL / NoSQL, Go
+	: Python, Spark, SQL / NoSQL, Scala, Go
 * DevOps
-	: Git, Docker, Ansible, Airflow, NGINX
+	: Git, Docker, Ansible, Airflow, NGINX, Terraform
 * AWS
-	: EC2, S3, Glue, Athena, RDS, Lambda, Kinesis, serverless.js 
+	: EC2, S3, EMR, Glue, Athena, RDS, Lambda, Kinesis
 * Hadoop
-	: HDFS, Hive, Impala
+	: HDFS, Hive, Impala, Presto
 * Stats and ML
 	: pandas, scipy.stats, numpy, sklearn, lifelines, pymc3, MLlib
 
@@ -24,9 +24,17 @@
 
 ### Experience	
 
-**Waymo** *Senior Data Scientist* __June 2018 to Present__
+**Udemy** *Senior Software Engineer, Data Platform* __June 2019 to Present__
 
-* Designed and developed the python run feature extractor pipeline. Built on apache beam, flume, borg, python and protobuff, the framework provides users a simple design pattern to extract features from vehicle and sds log data, and  then to scale over the whole fleet processing 100's of TB in minutes. 
+* Developed mysql to s3 pipeline to process mysql binlogs through a kafka into a scala spark streaming application that provides distributed updates and deletes in apache hudi format on AWS s3.
+
+* Used ansible and terraform to build and maintain production data infrastructure in AWS including multiple AWS EMR clusters that ran up to 880 cores and 7 TB of memory.
+
+* Rotated in on-call schedule to ensure infrastructure was reliable and ~1K jobs passed on a daily basis.
+
+**Waymo** *Senior Data Scientist* __June 2018 to June 2019__
+
+* Designed and developed the python run feature extractor pipeline. Built on apache beam, flume, borg, python and protobuff, the framework provides users a simple design pattern to extract features[counts, histograms, rainflow matrix], from vehicle and sds log data, and  then to scale over the whole fleet processing 100's of TB in minutes. 
 
 * Developed Metropolis Hastings algorithm in Go for sampling from a Weibull posterior with arbitrary priors. 
 
@@ -74,6 +82,10 @@
 	  Ames, Iowa
 
 -------
+
+### Projects
+
+**[Cronicle](https://github.com/jshiv/cronicle)** is a git integrated workflow scheduler that provides a pull model for CI/CD and versioning on job execution.
 
 ### Invited Talks
 

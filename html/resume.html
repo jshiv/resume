@@ -627,13 +627,13 @@ dl em {
 
 <ul>
 <li>Code
-: Python, Spark, SQL / NoSQL, Go</li>
+: Python, Spark, SQL / NoSQL, Scala, Go</li>
 <li>DevOps
-: Git, Docker, Ansible, Airflow, NGINX</li>
+: Git, Docker, Ansible, Airflow, NGINX, Terraform</li>
 <li>AWS
-: EC2, S3, Glue, Athena, RDS, Lambda, Kinesis, serverless.js </li>
+: EC2, S3, EMR, Glue, Athena, RDS, Lambda, Kinesis</li>
 <li>Hadoop
-: HDFS, Hive, Impala</li>
+: HDFS, Hive, Impala, Presto</li>
 <li>Stats and ML
 : pandas, scipy.stats, numpy, sklearn, lifelines, pymc3, MLlib</li>
 </ul>
@@ -642,10 +642,18 @@ dl em {
 
 <h3>Experience</h3>
 
-<p><strong>Waymo</strong> <em>Senior Data Scientist</em> <strong>June 2018 to Present</strong></p>
+<p><strong>Udemy</strong> <em>Senior Software Engineer, Data Platform</em> <strong>June 2019 to Present</strong></p>
 
 <ul>
-<li><p>Designed and developed the python run feature extractor pipeline. Built on apache beam, flume, borg, python and protobuff, the framework provides users a simple design pattern to extract features from vehicle and sds log data, and  then to scale over the whole fleet processing 100&#8217;s of TB in minutes.</p></li>
+<li><p>Developed mysql to s3 pipeline to process mysql binlogs through a kafka into a scala spark streaming application that provides distributed updates and deletes in apache hudi format on AWS s3.</p></li>
+<li><p>Used ansible and terraform to build and maintain production data infrastructure in AWS including multiple AWS EMR clusters that ran up to 880 cores and 7 TB of memory.</p></li>
+<li><p>Rotated in on-call schedule to ensure infrastructure was reliable and ~1K jobs passed on a daily basis.</p></li>
+</ul>
+
+<p><strong>Waymo</strong> <em>Senior Data Scientist</em> <strong>June 2018 to June 2019</strong></p>
+
+<ul>
+<li><p>Designed and developed the python run feature extractor pipeline. Built on apache beam, flume, borg, python and protobuff, the framework provides users a simple design pattern to extract features[counts, histograms, rainflow matrix], from vehicle and sds log data, and  then to scale over the whole fleet processing 100&#8217;s of TB in minutes.</p></li>
 <li><p>Developed Metropolis Hastings algorithm in Go for sampling from a Weibull posterior with arbitrary priors.</p></li>
 <li><p>Developed Markov chain Monte Carlo python code base for accurately forecasting field failures in complex systems.</p></li>
 <li><p>Developed Reliability analytics data pipeline and dashboards for report automation.</p></li>
@@ -689,6 +697,10 @@ dl em {
       Ames, Iowa</p>
 
 <hr />
+
+<h3>Projects</h3>
+
+<p><strong><a href="https://github.com/jshiv/cronicle">Cronicle</a></strong> is a git integrated workflow scheduler that provides a pull model for CI/CD and versioning on job execution.</p>
 
 <h3>Invited Talks</h3>
 
