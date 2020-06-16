@@ -26,11 +26,11 @@
 
 **Udemy** *Senior Software Engineer, Data Platform* __June 2019 to Present__
 
-* Developed mysql to s3 pipeline to process mysql binlogs through a kafka into a scala spark streaming application that provides distributed updates and deletes in apache hudi format on AWS s3.
+* Developed pipeline to process mysql binlogs through kafka into a scala spark streaming application that provides distributed updates and deletes in the apache hudi format on AWS s3.
 
 * Used ansible and terraform to build and maintain production data infrastructure in AWS including multiple AWS EMR clusters that ran up to 880 cores and 7 TB of memory.
 
-* Rotated in on-call schedule to ensure infrastructure was reliable and ~1K jobs passed on a daily basis.
+* Rotated in on-call schedule to ensure that infrastructure was reliable and ~1K jobs passed on a daily basis.
 
 **Waymo** *Senior Data Scientist* __June 2018 to June 2019__
 
