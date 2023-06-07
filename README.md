@@ -10,7 +10,7 @@
 ### Tech Stack
 
 * Code
-	: Python, Spark, SQL / NoSQL, Scala, Go
+	: Python, Spark, Go, SQL / NoSQL, Scala
 * DevOps
 	: Git, Docker, Ansible, Airflow, NGINX, Terraform
 * AWS
@@ -22,9 +22,22 @@
 
 ------
 
-### Experience	
+### Experience
 
-**Udemy** *Senior Software Engineer, Data Platform* __June 2019 to Present__
+**Rivian** *Principle Data Scientist* __July 2020 to Present__
+
+* Developed core data pipelines for decoding vehicle telemetry data into s3 10PiB+ datalake using golang on kubernetes and pyspark on databricks.
+
+* Lead seperate highly successfull data science and platform infrastructure teams. Drove key insights around vehicle preformance and preventative maintance models. Built data platform automation in terraform.
+
+* Developed samapling methodology to reduce cost of high density data, reduced data density by 90%+ saving on the order of $20M in compute and storage costs.
+
+* Developed OSS delta client in golang to enable highly scalable data pipelines to drive preformance, developer experience and cost reduction: https://github.com/rivian/delta-go
+
+* Onboarded databricks as core data platform with 300+ users, 100+ Jobs, and 500+ Tables.
+
+
+**Udemy** *Senior Software Engineer, Data Platform* __June 2019 to July 2020__
 
 * Developed pipeline to process mysql binlogs through kafka into a scala spark streaming application that provides distributed updates and deletes in the apache hudi format on AWS s3.
 
