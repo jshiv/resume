@@ -22,19 +22,26 @@
 
 ------
 
+### Profile
+
+* Proficient in multiple programming languages, with over a decade of experience programming in Python, production-level proficiency in Scala, and expertise in developing core production systems in Golang. Strongly committed to writing code that prioritizes readability, maintainability, and scalability, as well as adhering to software engineering best practices such as infrastructure as code and continuous integration/continuous deployment (CI/CD).
+* Experienced with big data frameworks and platforms at Petabyte scale, with a deep understanding of Spark on AWS and Databricks, as well as a broad knowledge of industry standards and trends.
+* Strategic decision making in IoT data structures, vehicle to cloud interface, data platform, analytics frameworks, statistical modeling for product life cycle, and a strong vision on integrating the data life cycle to drive business impact.
+* I prioritize driving a focus on business objectives and simplicity, ensuring that solutions are not only effective but also practical and easy to implement.
+
 ### Experience
 
 **Rivian** *Principle Data Scientist* __July 2020 to Present__
 
 * Developed core data pipelines for decoding vehicle telemetry data into s3 10PiB+ datalake using golang on kubernetes and pyspark on databricks.
 
-* Lead seperate highly successfull data science and platform infrastructure teams. Drove key insights around vehicle preformance and preventative maintance models. Built data platform automation in terraform.
+* Developed sampling methodology to reduce cost of high density data, reduced data density by 90%+ saving on the order of $20M in compute and storage costs.
 
-* Developed samapling methodology to reduce cost of high density data, reduced data density by 90%+ saving on the order of $20M in compute and storage costs.
-
-* Developed OSS delta client in golang to enable highly scalable data pipelines to drive preformance, developer experience and cost reduction: https://github.com/rivian/delta-go
+* Lead separate highly successful data science and platform infrastructure teams. Drove key insights around vehicle performance and preventative maintenance models. Built data platform automation in terraform.
 
 * Onboarded databricks as core data platform with 300+ users, 100+ Jobs, and 500+ Tables.
+
+* Developed OSS delta client in golang to enable highly scalable data pipelines to drive performance, developer experience and cost reduction: https://github.com/rivian/delta-go
 
 
 **Udemy** *Senior Software Engineer, Data Platform* __June 2019 to July 2020__
